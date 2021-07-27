@@ -1,2 +1,2 @@
 # Main-Control-System
-UI
+Puzzle game UI
